@@ -1,4 +1,5 @@
 day la file
 Toi phai chay nhanh hon nguoi khac
 xem co pull duoc khong nao
-1: push
+1: push1
+2: pushhhhhh
